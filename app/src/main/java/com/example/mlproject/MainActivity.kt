@@ -1,4 +1,4 @@
-package com.example.firstml
+package com.example.mlproject
 
 import android.annotation.SuppressLint
 import android.content.Intent
